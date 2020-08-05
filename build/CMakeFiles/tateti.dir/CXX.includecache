@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/juego.h
+tablero.h
+../lib/tablero.h
+jugador.h
+../lib/jugador.h
+
+../lib/jugador.h
+tablero.h
+../lib/tablero.h
+
+../lib/tablero.h
+
+G:/codificacion/c++/proyecto/tateti/main.cpp
+iostream
+-
+iomanip
+-
+juego.h
+G:/codificacion/c++/proyecto/tateti/juego.h
+

@@ -1,0 +1,24 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "G:/codificacion/c++/proyecto/tateti/main.cpp" "G:/codificacion/c++/proyecto/tateti/build/CMakeFiles/tateti.dir/main.cpp.obj"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../lib"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "G:/codificacion/c++/proyecto/tateti/build/lib/CMakeFiles/juego.dir/DependInfo.cmake"
+  "G:/codificacion/c++/proyecto/tateti/build/lib/CMakeFiles/jugador.dir/DependInfo.cmake"
+  "G:/codificacion/c++/proyecto/tateti/build/lib/CMakeFiles/tablero.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

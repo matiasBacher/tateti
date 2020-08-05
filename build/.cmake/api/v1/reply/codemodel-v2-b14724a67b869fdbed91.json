@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "lib",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "tateti",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "juego::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-juego-Debug-60177aa0f8db632a4632.json",
+					"name" : "juego",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "jugador::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-jugador-Debug-04e5a1863680d3f9cb51.json",
+					"name" : "jugador",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tablero::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-tablero-Debug-3ef37f5861989db957ae.json",
+					"name" : "tablero",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tateti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tateti-Debug-fc792ad7230aa4c07b3d.json",
+					"name" : "tateti",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/codificacion/c++/proyecto/tateti/build",
+		"source" : "G:/codificacion/c++/proyecto/tateti"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

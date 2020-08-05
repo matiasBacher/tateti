@@ -1,0 +1,8 @@
+G:/codificacion/c++/proyecto/tateti/build/CMakeFiles/tateti.dir
+G:/codificacion/c++/proyecto/tateti/build/CMakeFiles/edit_cache.dir
+G:/codificacion/c++/proyecto/tateti/build/CMakeFiles/rebuild_cache.dir
+G:/codificacion/c++/proyecto/tateti/build/lib/CMakeFiles/rebuild_cache.dir
+G:/codificacion/c++/proyecto/tateti/build/lib/CMakeFiles/jugador.dir
+G:/codificacion/c++/proyecto/tateti/build/lib/CMakeFiles/juego.dir
+G:/codificacion/c++/proyecto/tateti/build/lib/CMakeFiles/edit_cache.dir
+G:/codificacion/c++/proyecto/tateti/build/lib/CMakeFiles/tablero.dir

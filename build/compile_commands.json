@@ -1,0 +1,22 @@
+[
+{
+  "directory": "G:/codificacion/c++/proyecto/tateti/build",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   @CMakeFiles/tateti.dir/includes_CXX.rsp -g   -o CMakeFiles\\tateti.dir\\main.cpp.obj -c G:\\codificacion\\c++\\proyecto\\tateti\\main.cpp",
+  "file": "G:/codificacion/c++/proyecto/tateti/main.cpp"
+},
+{
+  "directory": "G:/codificacion/c++/proyecto/tateti/build/lib",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\jugador.dir\\jugador.cpp.obj -c G:\\codificacion\\c++\\proyecto\\tateti\\lib\\jugador.cpp",
+  "file": "G:/codificacion/c++/proyecto/tateti/lib/jugador.cpp"
+},
+{
+  "directory": "G:/codificacion/c++/proyecto/tateti/build/lib",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\juego.dir\\juego.cpp.obj -c G:\\codificacion\\c++\\proyecto\\tateti\\lib\\juego.cpp",
+  "file": "G:/codificacion/c++/proyecto/tateti/lib/juego.cpp"
+},
+{
+  "directory": "G:/codificacion/c++/proyecto/tateti/build/lib",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\tablero.dir\\tablero.cpp.obj -c G:\\codificacion\\c++\\proyecto\\tateti\\lib\\tablero.cpp",
+  "file": "G:/codificacion/c++/proyecto/tateti/lib/tablero.cpp"
+}
+]
